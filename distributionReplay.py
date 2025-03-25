@@ -10,7 +10,7 @@ input_csv = "bike_analysis_results.csv"
 # CARLA log files for replay
 left_recording_log = "C:/CARLA_0.9.15/WindowsNoEditor/PythonAPI/examples/Prototypes/left_recording.log"
 right_recording_log = "C:/CARLA_0.9.15/WindowsNoEditor/PythonAPI/examples/Prototypes/right_recording.log"
-
+behind_recording_log = "C:/CARLA_0.9.15/WindowsNoEditor/PythonAPI/examples/Prototypes/behind_recording.log"
 # Function to replay a CARLA log file
 def replay_carla_log(log_file):
     """
